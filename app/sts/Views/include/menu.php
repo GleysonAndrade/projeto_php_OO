@@ -1,0 +1,21 @@
+<?php 
+if(!defined('C7E3L8K9E5')){
+    // header("Location: /");
+    die("Erro: Página não encontrada");
+}
+?>
+<nav class="navbar">
+    <div class="max-width">
+        <div class="logo">
+            <a href="<?php URL; ?>">Celke</a>
+        </div>
+        <ul class="menu" id="menu-site">
+            <li><a href="<?php URL; ?>">Home</a></li>
+            <li><a href="<?php URL; ?>sobre-empresa">Sobre Empresa</a></li>
+            <li><a href="<?php URL; ?>contato">Contato</a></li>
+        </ul>
+        <div class="menu-btn" id="menu-btn">
+            <i class="fa-solid fa-bars" id="menu-icon"></i>
+        </div>
+    </div>
+</nav>

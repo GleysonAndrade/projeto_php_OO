@@ -1,0 +1,17 @@
+{
+    "description": "Projeto Site",
+    "authors": [
+        {
+            "name": "Gleyson Andrade",
+            "email": "gleysonandrade199@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core",
+            "App\\":"app",
+            "Sts\\": "app/sts"
+        }
+    },
+    "require": {}
+}
