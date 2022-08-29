@@ -1,4 +1,4 @@
-# projeto_php_OO
+# Projeto PHP - Orientado a Objeto
 Site desenvolvido em PHP Oriente a Objeto
 
 ## Site desenvolvido com HTML, CSS e JAVASCRIPT front-end
