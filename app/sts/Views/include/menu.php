@@ -7,7 +7,7 @@ if(!defined('C7E3L8K9E5')){
 <nav class="navbar">
     <div class="max-width">
         <div class="logo">
-            <a href="<?php URL; ?>">Celke</a>
+            <a href="<?php URL; ?>">Projeto PHP OO</a>
         </div>
         <ul class="menu" id="menu-site">
             <li><a href="<?php URL; ?>">Home</a></li>
